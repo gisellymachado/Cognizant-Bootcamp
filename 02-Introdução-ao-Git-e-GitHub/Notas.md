@@ -1,1 +1,0 @@
-Notas sobre o curso de Introdução ao Git e GitHub
