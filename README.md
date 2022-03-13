@@ -1,5 +1,5 @@
 # Cognizant-Bootcamp
-Desafios de projeto e desafios de código.
+Notas de curso, desafios de projeto e desafios de código do Bootcamp da Cognizant na DIO.
 
+ - Pensamento Computacional
  - Introdução ao Git e GitHub 
- - Repositório de desafio do projeto sobre Git/GitHub no Bootcamp da Cognizant na DIO.
