@@ -1,1 +1,0 @@
-Notas sobre o curso de pensamento Computacional
