@@ -1,11 +1,10 @@
 # Cognizant-Bootcamp
-Este repositório foi desenvolvido para compartilhar minha evolução do bootcamp da Cognizant, bem como notas dos cursos.
+Este repositório foi desenvolvido para compartilhar minha evolução do bootcamp da Cognizant, bem como as notas aos cursos.
 
 Bootcamp Cognizant Cloud Data Engineer #2
 
 ## Cursos
 
-0. Boas-vindas ao Bootcamp Cognizant Cloud Data Engineer #2
 1. Pensamento Computacional
 2. Introdução ao Git e ao GitHub
 3. Linux: Introdução ao Sistema Operacional e Terminal
@@ -32,13 +31,13 @@ Bootcamp Cognizant Cloud Data Engineer #2
 
 ## Desafios de projeto
 
-0. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-1. Descomplicando a criação de pacotes de processamento de imagens em Python
-2. MySql - Como modelar um banco de controle de séries assistidas
-3. Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
+1. Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+2. Descomplicando a criação de pacotes de processamento de imagens em Python
+3. MySql - Como modelar um banco de controle de séries assistidas
+4. Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
 
 ## Desafios de código
 
-0. Desafios Iniciais em Python
-1. Desafios Intermediários Python
-2. Desafios Finais Python
+1. Desafios Iniciais em Python
+2. Desafios Intermediários Python
+3. Desafios Finais Python
