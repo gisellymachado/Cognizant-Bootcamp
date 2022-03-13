@@ -1,5 +1,7 @@
 # Cognizant-Bootcamp
-Este repositório foi desenvolvido para compartilhar minha evolução do bootcamp da Cognizant, bem como as notas aos cursos.
+Este repositório foi desenvolvido para compartilhar minha evolução do bootcamp da Cognizant, bem como notas realizadas referente aos cursos.
+
+Visite: [Digital Innovation One](https://www.dio.me/)
 
 Bootcamp Cognizant Cloud Data Engineer #2
 
